@@ -46,6 +46,8 @@ $posts = get_posts();
             <?php endforeach ?>
         </main>
         <footer>
+
+           
             <script src="assets/js/ajax.js"></script>
             <script src="assets/js/main.js"></script>
         </footer>
