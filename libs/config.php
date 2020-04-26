@@ -23,10 +23,10 @@ require 'functions.php';
 define('DB_NAME', 'like-system');
 
 // The database user.
-define('DB_USERNAME', 'binemmanuel');
+define('DB_USERNAME', 'username_here');
 
 // The database password.
-define('DB_PASSWORD', 'SMARTlogin89');
+define('DB_PASSWORD', 'password_here');
 
 // The host name.
 define('DB_HOST', 'localhost');
